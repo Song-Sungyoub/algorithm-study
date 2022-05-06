@@ -1,3 +1,5 @@
+# 실패한 코드 결과가 안 맞음
+
 def solution(food_times, k):
     answer = 0
     cnt = 0
